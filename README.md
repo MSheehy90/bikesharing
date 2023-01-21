@@ -19,9 +19,15 @@ Finally, we show user trips by gender, weekday and by customers vs subscribers. 
 
 ## Summary
 
-![image](https://user-images.githubusercontent.com/114771735/213894161-21058de1-ccd5-4fa5-a94a-991fd1c3a69c.png)
+In the data, we've seen high usage during commuting hours. Implementing a bikesharing program in Des Moines will be allow citizens to have a commuting alternative and could potentially reduce traffic. 
 
 ![image](https://user-images.githubusercontent.com/114771735/213894194-f9285100-7acb-4382-bf9d-970b46dc41c2.png)
+
+We also saw from above, the majority of users were subscribers. With a subscription model, we better forecast the revenue. In the below, we can aslo see bikesharing is more popular amongst youger users. 
+
+![image](https://user-images.githubusercontent.com/114771735/213894161-21058de1-ccd5-4fa5-a94a-991fd1c3a69c.png)
+
+
 
 
 
